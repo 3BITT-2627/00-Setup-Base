@@ -10,7 +10,7 @@ Creare una copia personale e PRIVATA di questo progetto, scaricarla sul tuo comp
 ### Fase 1: Crea il TUO repository (Fallo su GitHub)
 Non puoi modificare questo file perché è il Template del prof. Devi creare la tua copia:
 1. Clicca sul pulsante verde in alto a destra: **Use this template** e poi **Create a new repository**.
-2. ⚠️ **ATTENZIONE - Owner:** Nel menu a tendina "Owner", NON lasciare il tuo nome utente, ma seleziona l'Organizzazione della classe (es. *Informatica-3A-2627*).
+2. ⚠️ **ATTENZIONE - Owner:** Nel menu a tendina "Owner", NON lasciare il tuo nome utente, ma seleziona l'Organizzazione della classe (es. *3BITT-2627*).
 3. **Repository name:** Inserisci esattamente `00-Setup-TuoCognome` (es. `00-Setup-Rossi`).
 4. ⚠️ **ATTENZIONE - Visibilità:** Seleziona assolutamente **Private**. (Se metti Public, i tuoi compagni potranno copiare il tuo codice e prenderete un brutto voto in due!).
 5. Clicca su **Create repository**.
